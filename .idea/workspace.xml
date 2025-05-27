@@ -4,117 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb96f3c5-c106-4f2d-863a-5449532da604" name="Changes" comment="New repo">
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.idea/Braintree_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/chat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/.package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/chunk-CCUDLJWE.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/chunk-HTB5LLOP.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/chunk-P5FH2LZE.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/colors-b_6i0Oi7.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/colors.d.mts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/colors.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/colors.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/default-theme.d.mts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/default-theme.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/default-theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/default-theme.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/flatten-color-palette.d.mts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/flatten-color-palette.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/flatten-color-palette.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/flatten-color-palette.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/lib.d.mts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/lib.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/lib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/lib.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/plugin.d.mts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/plugin.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/plugin.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/resolve-config-BIFUA2FY.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/resolve-config-QUZ9b-Gn.d.mts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/dist/types-B254mqw1.d.mts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/preflight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/node_modules/tailwindcss/utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/payments_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/redis_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/sqs_listener.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/braintree-app-backend/user_routes.py" afterDir="false" />
+    <list default="true" id="31b67e68-ca9c-48d6-96fe-3cf7bb6379f2" name="Changes" comment="New repo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/braintree-app-frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;josephzh-23&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/josephzh-23/braintree_app.git&quot;,
-    &quot;accountId&quot;: &quot;7d968d70-5ace-4793-bcb3-8fa93951bbb2&quot;
-  }
-}</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/boto3/__init__.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/flask/app.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/flask/globals.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/flask/sansio/app.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/redis/connection.py" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2x4AJwK84kPyv3ZBOdYn9bzZU7W" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sqs_listener.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
-  }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Braintree_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +31,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.9 (Braintree_project)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/braintree-app-backend/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,49 +45,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.app" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="eb96f3c5-c106-4f2d-863a-5449532da604" name="Changes" comment="" />
-      <created>1747186903841</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1747186903841</updated>
-    </task>
-    <task id="LOCAL-00001" summary="New repo">
-      <option name="closed" value="true" />
-      <created>1748272418904</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1748272418904</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New repo" />

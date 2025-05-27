@@ -39,4 +39,5 @@ app.register_blueprint(user_routes)
 
 
 if __name__ == '__main__':
+    print("Server started")
     socketio.run(app, host='0.0.0.0', port=5000, use_reloader=True)
