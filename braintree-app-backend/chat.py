@@ -7,7 +7,7 @@ from flask_socketio import emit, join_room, leave_room
 from redis_client import redis_client, socketio
 
 # and setup for the table here
-dynamodb = boto3.resource('dynamodb')
+dynamodb = boto3.resource('dynamodb', region_name='us-east-1')
 message_table = dynamodb.Table('message')
 
 

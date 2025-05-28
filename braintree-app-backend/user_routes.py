@@ -67,7 +67,6 @@ def register():
 
 
 # Simulated DynamoDB table
-dynamodb = boto3.resource('dynamodb')
 TABLE_NAME = 'users'
 users_table = dynamodb.Table(TABLE_NAME)
 

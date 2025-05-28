@@ -5,7 +5,7 @@ from datetime import datetime
 
 payment_routes = Blueprint('payment_routes', __name__)
 
-dynamodb = boto3.resource('dynamodb')
+dynamodb = boto3.resource('dynamodb', region_name='us-east-1')
 transactions_table = dynamodb.Table('transactions')
 
 @payment_routes.route('/client_token', methods=['GET'])
