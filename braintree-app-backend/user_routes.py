@@ -30,7 +30,7 @@ user_table = dynamodb.Table(user_table_name)
 
 
 
-@user_routes.route('/register', methods=['POST'])
+@user_routes.route('/register', methods=['POST', 'GET'])
 def register():
     data = request.json
     name = data.get('username')
@@ -70,7 +70,7 @@ def register():
 TABLE_NAME = 'users'
 users_table = dynamodb.Table(TABLE_NAME)
 
-@user_routes.route('/login', methods=['POST'])
+@user_routes.route('/login', methods=['POST', 'GET'])
 def login():
     data = request.get_json()
     email= data.get('email')
