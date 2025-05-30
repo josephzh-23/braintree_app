@@ -3,6 +3,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import "./Login.css"; // We'll reuse the same CSS since we want the same styling
 
+const API_BASE = process.env.API_BASE || "";
 const Register = () => {
   const navigate = useNavigate();
   const [formData, setFormData] = useState({
