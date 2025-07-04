@@ -3,7 +3,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import "./Login.css"; // We'll reuse the same CSS since we want the same styling
 
-const API_BASE = process.env.API_BASE || "";
+const API_BASE = process.env.REACT_APP_API_BASE || "";
 const Register = () => {
   const navigate = useNavigate();
   const [formData, setFormData] = useState({
@@ -21,6 +21,7 @@ const Register = () => {
       [name]: value,
     }));
   };
+  console.log("the api base,", API_BASE);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -33,7 +34,7 @@ const Register = () => {
     }
 
     try {
-      const response = await axios.post("http://localhost:5000/register", {
+      const response = await axios.post(`http://${API_BASE}/register`, {
         username: formData.username,
         password: formData.password,
         email: formData.email,
@@ -41,7 +42,7 @@ const Register = () => {
 
       if (response.data) {
         // If registration is successful, automatically log the user in
-        const loginResponse = await axios.post("http://localhost:5000/login", {
+        const loginResponse = await axios.post(`http://${API_BASE}/login`, {
           email: formData.email,
           password: formData.password,
         });
